@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Swarada Ghate 
 
-<!--
-**GhateSwarada/GhateSwarada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Backend Developer | Java & Spring Boot Specialist  
 
-Here are some ideas to get you started:
+🎓 **Recent Computer Science Graduate** | Passionate about building scalable, efficient backend systems with **Java, Spring Boot, and RESTful APIs**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tech Stack & Tools**  
+✔ **Languages:** Java, SQL  
+✔ **Frameworks:** Spring Boot, Hibernate, JPA 
+✔ **Databases:** MySQL, PLSQL, MongoDB, Firebase 
+✔ **DevOps & Tools:** Git, Docker, Postman  
+✔ **Currently Learning:** Microservices (Spring Cloud), Kubernetes, AWS  
+ 
+
+### 📈 GitHub Stats  
+[![Swarada GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)  
+
+### 📫 Let's Connect!  
+- 💼 [LinkedIn](https://www.linkedin.com/in/swarada-ghate-57b30726b/)  
