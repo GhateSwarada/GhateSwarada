@@ -17,7 +17,7 @@
 
 ### 📈 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GhateSwarada&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername) 
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 ![](https://nirzak-streak-stats.vercel.app/?user=GhateSwarada&theme=dark&hide_border=false)
 
 
